@@ -1,2 +1,4 @@
+github.com/astj/renovate-sandbox-go-mod-replace/module2 v0.0.0-20200708121933-c5c5fc01fa4e h1:JT2+bzqwFPIyFYjIPcv3TdE4JIbELR8N3HCQYqbK1dU=
+github.com/astj/renovate-sandbox-go-mod-replace/module2 v0.0.0-20200708121933-c5c5fc01fa4e/go.mod h1:JMqXpjlSGpSpfYwIG+Zp2nbSPzUp7thV55j2ZhQCXgQ=
 github.com/pkg/errors v0.9.0 h1:J8lpUdobwIeCI7OiSxHqEwJUKvJwicL5+3v1oe2Yb4k=
 github.com/pkg/errors v0.9.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
